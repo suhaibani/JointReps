@@ -7,7 +7,10 @@ This tool is the source codes for the proposed method reported in the papers tit
 * ./src/reps.cc is the source code for training the model
 * ./src/comb_NNE.py is the source code for expanding the knowledge base with NNE algorithm (IEEE-TDKE version)
 * ./src/comb_MNE.py is the source code for expanding the knowledge base with MNE algorithm (IEEE-TDKE version)
-* ./work/ includes all the lexicon files
-* ./vectors/ the pretrained word vectors are available for download
+* ./work includes all the lexicon files
+* ./vectors the pretrained word vectors are available for download
 
 # Requirements
+* the model ./src/reps.cc is written in C++, therefore a C++0x compiler is required
+* [C++ Eigen Library](http://eigen.tuxfamily.org/index.php?title=Main_Page) need to be installed
+  * Alternatively, instead of installing Eigen, you can simply create a directory named 'eigen' in the same level as ./src and copy the source code of Eigen into it
