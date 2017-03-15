@@ -15,3 +15,8 @@ This tool is the source codes for the proposed method reported in the papers tit
 * [C++ Eigen Library](http://eigen.tuxfamily.org/index.php?title=Main_Page) need to be installed
   * Alternatively, instead of installing Eigen, you can simply create a directory named 'eigen' in the same level as ./src and copy the source code of Eigen into it
 * [Numpy](http://www.numpy.org/) library for ./work/comb_NNE.py and comb_MNE.py expansion algorithms
+
+# Installation
+Move to the ./src directory and type make
+
+# Examples
