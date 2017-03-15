@@ -1,2 +1,2 @@
 # JointReps
-Learning word representation jointly using a corpus and a knowledge base (KB)
+JointReps is a joint model for learning distributed word vector representations (word embeddings) from both large text corpora and knowledge bases (KBs). 
