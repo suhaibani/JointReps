@@ -22,11 +22,3 @@ Move to the ./src directory and type make
 # Examples
 * To train the model with a synonym file as an example, a small co-occurrence matrix ./work/sampleEdges and ./src/Makefile are provided
  * To run it, type make run
- * this will call:
- * ./reps --dim=300 --epohs=20 --model=../work/model --alpha=0.01 --lmda=10000 --edges=../work/edges.sample --pairs=../work/synonyms
- * dim: word vectors dimension
- * epohs: number of iterations
- * alpha: initial learning rate of AdaGrad
- * lmda: the regularization coefficient in the proposed model
- * edges: co-occurrence matrix file
- * pairs: the lexicon file
