@@ -6,7 +6,7 @@ This tool is the source codes for the proposed method reported in the papers tit
 # Contents
 * ./src/reps.cc is the source code for training the model
 * ./src/comb_NNE.py is the source code for expanding the knowledge base with NNE algorithm (IEEE-TDKE version)
-* ./src/comb_MNE.py is source code for expanding the knowledge base with MNE algorithm (IEEE-TDKE version)
+* ./src/comb_MNE.py is the source code for expanding the knowledge base with MNE algorithm (IEEE-TDKE version)
 * ./work/ includes all the lexicon files
 * ./vectors/ the pretrained word vectors are available for download
 
