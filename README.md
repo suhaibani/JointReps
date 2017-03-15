@@ -21,4 +21,4 @@ Move to the ./src directory and type make
 
 # Examples
 * To train the model with a synonym file as an example, a small co-occurrence matrix ./work/sampleEdges and ./src/Makefile are provided
- * To run it, type make run
+  * To run it, type make run
