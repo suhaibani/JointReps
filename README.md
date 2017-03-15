@@ -30,7 +30,7 @@ Move to the ./src directory and type make
    * lmda: the regularization coefficient in the proposed model
    * edges: co-occurrence matrix file
    * pairs: the lexicon file
-* To combing the co-occurrence matrix file and the lexicon file, i.e. to expand the lexicon file with either NNE or MNE algorithm, with synonym relation type as an example
+* To combing the co-occurrence matrix file and the lexicon file, i.e. to expand the lexicon file with either NNE or MNE algorithms, with synonym relation type as an example
   * Go the ./src directory
   * Type python comb_NNE.py synonyms sampleEdges OutputFile
   * OutputFile: your expanded synonyms lexicon file
