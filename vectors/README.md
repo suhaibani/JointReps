@@ -1,5 +1,5 @@
 # Pre-trained Word Vectors
-The pre-trained word vectors reported in the submitted paper in IEEE-TDKE titled "Jointly Learning Word Embeddings using a Corpus and a Knowledge Base" are available for downloading:
+The pre-trained word vectors reported in the submitted paper in IEEE-TKDE titled "Jointly Learning Word Embeddings using a Corpus and a Knowledge Base" are available for downloading:
 * 2 Billions tokens (full ukWaC corpus), 400k vocab, 300d, 87K WordNet synonym edges, Static Knowledge Base (SKB)
 [Download](https://cgi.csc.liv.ac.uk/~suhaibani/jointreps/downloads/JointReps_2B_87K_300d_SKB.zip)
 * 2 Billions tokens (full ukWaC corpus), 400k vocab, 300d, 108K WordNet synonym edges, Nearest Neighbour Expansion (NNE)
