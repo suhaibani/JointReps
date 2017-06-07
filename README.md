@@ -6,7 +6,7 @@ This tool is the source codes for the proposed method reported in the published 
 # Contents
 * ./src/reps.cc is the source code for training the model
 * ./src/comb_NNE.py is the source code for NNE algorithm (Journal version)
-* ./src/comb_MNE.py is the source code for MNE algorithm (Journal version version)
+* ./src/comb_MNE.py is the source code for MNE algorithm (Journal version)
 * ./work includes all the lexicon files and a small co-occurrence matrix sample (sampleEdges)
 * ./vectors the pretrained word vectors are available for download
 
