@@ -3,7 +3,7 @@ JointReps is a joint model for learning distributed word vector representations 
 
 This tool is the source codes for the proposed method reported in the published papers titled 
 * "Joint Word Representation Learning Using a Corpus and a Semantic Lexicon" in AAAI-2016
-* "[Jointly learning word embeddings using a corpus and a knowledge base" in PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193094)
+* ["Jointly learning word embeddings using a corpus and a knowledge base" in PlosONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193094)
 
 # Contents
 * ./src/reps.cc is the source code for training the model
